@@ -1,5 +1,5 @@
 ## Library Management System (SQL) 
-A SQL project built using MySQL to manage (books, members, book issues, and returns.)
+-A SQL project built using MySQL to manage (books, members, book issues, and returns.)
 
 ## Features
 - Create and manage library database
